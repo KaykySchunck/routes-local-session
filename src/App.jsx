@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Nav />
-       {/* chama os elementos filhos para ser mostrados  na tela */}
+       {/* chama os elementos filhos para serem exibidos na tela */}
       <Outlet />
       <Footer />
     </>
